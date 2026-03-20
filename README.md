@@ -30,9 +30,10 @@ https://github.com/user-attachments/assets/ae098892-2579-4e81-b0df-89a15e557b79
 
 ---
 
-## Current Companies Covered
+## Companies Covered 
 
 Microsoft · Apple · Tesla · Meta · Amazon · Netflix · Alphabet (Google)
+You can add the companies that you are interested too! 
 
 ---
 
