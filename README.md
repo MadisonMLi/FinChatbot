@@ -1,4 +1,4 @@
-# Financial Analysis Chatbot
+# FinAnalysis AI Chatbot
 
 An AI-powered financial analysis chatbot that pulls real data from SEC EDGAR and Yahoo Finance, calculates key financial ratios, and lets users ask natural language questions through a Streamlit web interface backed by Claude (Anthropic).
 
