@@ -3,8 +3,13 @@
 An AI-powered financial analysis chatbot that pulls real data from SEC EDGAR and Yahoo Finance, calculates key financial ratios, and lets users ask natural language questions through a Streamlit web interface backed by Claude (Anthropic).
 
 ---
+## Video Demo: 
+https://youtu.be/OK2bGdPo6vU
 
-## What It Does
+
+
+
+What It Does
 
 - Fetches 5 years of financial data directly from the **SEC EDGAR XBRL API** for 7 companies(and More!!)
 - Enriches the dataset with **historical stock prices and market data** via Yahoo Finance
