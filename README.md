@@ -10,6 +10,10 @@ https://youtu.be/OK2bGdPo6vU
 
 
 
+
+https://github.com/user-attachments/assets/ae098892-2579-4e81-b0df-89a15e557b79
+
+
 ## What It Does
 
 - Fetches 5 years of financial data directly from the **SEC EDGAR XBRL API** for 7 companies(and More!!)
