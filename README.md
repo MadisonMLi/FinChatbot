@@ -6,10 +6,6 @@ An AI-powered financial analysis chatbot that pulls real data from SEC EDGAR and
 ## Video Demo: 
 https://youtu.be/OK2bGdPo6vU
 
-[![Video Demo](https://img.youtube.com)](https://youtu.be/OK2bGdPo6vU)
-
-
-
 
 https://github.com/user-attachments/assets/ae098892-2579-4e81-b0df-89a15e557b79
 
