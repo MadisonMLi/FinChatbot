@@ -6,10 +6,11 @@ An AI-powered financial analysis chatbot that pulls real data from SEC EDGAR and
 ## Video Demo: 
 https://youtu.be/OK2bGdPo6vU
 
+[![Video Demo](https://img.youtube.com)](https://youtu.be/OK2bGdPo6vU)
 
 
 
-What It Does
+## What It Does
 
 - Fetches 5 years of financial data directly from the **SEC EDGAR XBRL API** for 7 companies(and More!!)
 - Enriches the dataset with **historical stock prices and market data** via Yahoo Finance
